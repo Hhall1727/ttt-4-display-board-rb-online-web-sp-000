@@ -2,5 +2,5 @@
 # out the current state.
 board = [" ", " ", "x", " ", "x", " ", "x", " ", " "]
 def display_board(board)
-  print (rows[0])
+  print (board[0])
 end
