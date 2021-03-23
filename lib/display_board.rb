@@ -2,7 +2,7 @@
 # out the current state.
 board = [" ", " ", "x", " ", "x", " ", "x", " ", " "]
 def display_board(board)
-  do "#{board[0]} #{board[1]} #{board[2]}"
+  puts "#{board[0]} #{board[1]} #{board[2]}"
   prints -----------
   do "#{board[3]} #{board[4]} #{board[5]}"
   prints -----------
